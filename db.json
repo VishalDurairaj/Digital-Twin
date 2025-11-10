@@ -1,0 +1,6 @@
+{
+  "devices": [
+    {"id": 1, "name": "Smart Light", "status": "off", "temperature": 27},
+    {"id": 2, "name": "Smart Fan", "status": "on", "temperature": 30}
+  ]
+}
